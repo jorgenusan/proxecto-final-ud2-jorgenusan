@@ -1,0 +1,14 @@
+name: final-project-ud2
+channels:
+  - anaconda
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.9.11
+  - numpy
+  - pandas
+  - pytest
+  - pip
+  - scikit-learn
+  - pre-commit
+  - matplotlib
