@@ -7,6 +7,7 @@ Ambos modelos están muy cerca de poder ser el mejor para este tipo de clasifica
 Si bien es cierto que el score que muestran es algo malo. Y más cuando se trata de clasificar correctamente los positivos, pero de los 3 utilizados ambos son los mejores.
 
 > KNN = 0.9092012624423403
+
 > LR = 0.9085943190094683
 
 En cambio el DT es el peor de los tres. Aunque su score no está muy atrás en comparación si es cierto que ha sacado el peor score.
