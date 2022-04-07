@@ -27,3 +27,7 @@ Activate conda environment:
 ```bash
 pre-commit install
 ```
+
+## Best Model
+
+To see the best model for the dataset, check: [Best Model](src/models/README.md)
