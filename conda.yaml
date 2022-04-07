@@ -15,3 +15,4 @@ dependencies:
   - seaborn
   - s3fs
   - fsspec
+  - plotly
