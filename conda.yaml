@@ -13,3 +13,5 @@ dependencies:
   - pre-commit
   - matplotlib
   - seaborn
+  - s3fs
+  - fsspec
